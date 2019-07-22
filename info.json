@@ -1,0 +1,20 @@
+"bin":{
+    "your-command-here": "./index.js"
+  },
+
+  {
+    "name": "Keene Wong",
+    "website": "https://keenewong.github.io/keenewongportfolio/",
+    "linkedin": "https://www.linkedin.com/in/keene-wong-505256187",
+    "github": "https://github.com/KeeneWong",
+    "email": "keenewongwk@gmail.com",
+    "proficientTechnologies": [
+        "Javascript",
+        "Java",
+        "C#",
+        "Node",
+        "Mongodb",
+        "PostgreSQL",
+        "Wordpress",
+    ]
+}
